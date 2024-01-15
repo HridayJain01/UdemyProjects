@@ -1,0 +1,14 @@
+.container{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.dice{
+    text-align: center;
+    display:  inline-block;
+
+}
+html{
+    background-color: black;
+    color: aliceblue;
+}
